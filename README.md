@@ -1,6 +1,6 @@
 # Stev-e_ENPH253
 
-This is the software for the robot Stev-e. More information on Stev-e can be found here (Daniel put your link here).
+This is the software for the robot Stev-e. More information on Stev-e can be found here: https://danielbackhouse.github.io/#home.
 The setting is Star Wars, and Stev-e's mission was to navigate the enemy stronghold and rescue four ewoks and chewbacca 
 without being detected. 
 
